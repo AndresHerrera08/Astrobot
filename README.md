@@ -23,3 +23,13 @@ git commit -m "commit"
 
 subir cambios
 git push 
+
+crear entorno 
+python -m venv [mi entorno]
+
+
+activar ventana virtual
+[mi entorno]/scripts/activate 
+
+desactivar 
+deactive 
